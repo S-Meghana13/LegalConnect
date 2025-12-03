@@ -1,3 +1,4 @@
+backend/summarizer/model_cache/
 # Node
 node_modules/
 npm-debug.log
